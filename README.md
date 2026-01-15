@@ -2,7 +2,7 @@
 ![alt text](https://github.com/dev126712/dockerized-three-tier-app/blob/64105d4d0de1f6b2286aa6f47ae82d9ba965c086/licensed-image.jpeg)
 
 #
-### express-api: https://github.com/dev126712/express-api
+### Express-Api: https://github.com/dev126712/express-api
 #### Project Overview:
 - CRUD Application
 - Backend Express-Api
@@ -18,7 +18,7 @@
 ![My Skills](https://skillicons.dev/icons?i=react,express,mongodb,docker,py,githubactions,prometheus,bash,npm,ai,aiscript,kubernetes)
 
 #
-### dockerized-three-tier-app: https://github.com/dev126712/dockerized-three-tier-app
+### Dockerized-Three-Tier-App: https://github.com/dev126712/dockerized-three-tier-app
 #### Project Overview:
 - CRUD Application
 - Backend Express-Api

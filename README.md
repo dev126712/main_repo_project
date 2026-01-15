@@ -52,7 +52,7 @@
 - AWS (S3)
 - Docker Compose
 
-![My Skills](https://skillicons.dev/icons?i=docker,terraform,aws,postgres,ubuntu)
+![My Skills](https://skillicons.dev/icons?i=docker,terraform,aws,postgres,ubuntu,bash,jenkins,linux)
 
 ## Bash Project
 

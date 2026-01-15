@@ -1,6 +1,5 @@
 ## DevOps Project
 ![alt text](https://github.com/dev126712/dockerized-three-tier-app/blob/64105d4d0de1f6b2286aa6f47ae82d9ba965c086/licensed-image.jpeg)
-
 ### express-api: 
 https://github.com/dev126712/express-api
 #### Project Overview:
@@ -16,7 +15,6 @@ https://github.com/dev126712/express-api
 - Docker Compose
 
 ![My Skills](https://skillicons.dev/icons?i=react,express,mongodb,docker,py,githubactions,prometheus,bash,npm,ai,aiscript,kubernetes)
-
 ### dockerized-three-tier-app:
 https://github.com/dev126712/dockerized-three-tier-app
 #### Project Overview:
@@ -28,8 +26,8 @@ https://github.com/dev126712/dockerized-three-tier-app
 -  CI/CD Workflows (GitHub Actions)
 - Shift Left (DevSecOps)
 - Docker Compose
-- Reverse Proxy(Nginx)
-- Infrastructure (Terraform)
+- Reverse Proxy (Nginx)
+- Three Tier Infrastructure (Terraform)
 - Shift Left (DevSecOps)
   
 ![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,nginx,docker,githubactions,bash,npm,terraform,)

@@ -13,7 +13,7 @@ https://github.com/dev126712/express-api
 - Shift Left (DevSecOps)
 - AiOps Log Analysis (Python)
 
-![My Skills](https://skillicons.dev/icons?i=react,express,mongodb,docker,py,githubactions,prometheus,gr,bash,npm,ai)
+![My Skills](https://skillicons.dev/icons?i=react,express,mongodb,docker,py,githubactions,prometheus,bash,npm,ai)
 
 
 ## Bash Project

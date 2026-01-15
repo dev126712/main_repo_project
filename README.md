@@ -34,6 +34,16 @@
   
 ![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,nginx,docker,githubactions,bash,npm,terraform,)
 
+##
+### Three Tier Architecture: https://github.com/dev126712/three-tier-architecture
+#### Project Overview:
+- Terraform
+-  CI/CD Workflows (GitHub Actions)
+- Shift Left (DevSecOps)
+- AWS
+
+![My Skills](https://skillicons.dev/icons?i=terraform,ithubactions,aws)
+
 ## Bash Project
 
 

@@ -11,8 +11,9 @@ https://github.com/dev126712/express-api
 - Docker Container
 - CI/CD Workflows (GitHub Actions)
 - Shift Left (DevSecOps)
+- AiOps Log Analysis (Python)
 
-![My Skills](https://skillicons.dev/icons?i=react,express,mongodb,docker,py,githubactions,prometheus,gr)
+![My Skills](https://skillicons.dev/icons?i=react,express,mongodb,docker,py,githubactions,prometheus,gr,bash,npm,ai)
 
 
 ## Bash Project

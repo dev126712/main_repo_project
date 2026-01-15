@@ -9,7 +9,7 @@ https://github.com/dev126712/express-api
 - Frontend React
 - MongoDB Atlas
 
-[![My Skills](https://skillicons.dev/icons?i=react,express,mongodb)]
+![My Skills](https://skillicons.dev/icons?i=react,express,mongodb)
 
 
 ## Bash Project

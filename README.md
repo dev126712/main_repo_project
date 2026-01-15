@@ -42,7 +42,7 @@
 - Shift Left (DevSecOps)
 - AWS
 
-![My Skills](https://skillicons.dev/icons?i=terraform,ithubactions,aws)
+![My Skills](https://skillicons.dev/icons?i=terraform,githubactions,aws)
 
 ## Bash Project
 

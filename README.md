@@ -12,8 +12,9 @@ https://github.com/dev126712/express-api
 - CI/CD Workflows (GitHub Actions)
 - Shift Left (DevSecOps)
 - AiOps Log Analysis (Python)
+- Monotoring (Prometheus,Node Exporter, Slack)
 
-![My Skills](https://skillicons.dev/icons?i=react,express,mongodb,docker,py,githubactions,prometheus,bash,npm,ai)
+![My Skills](https://skillicons.dev/icons?i=react,express,mongodb,docker,py,githubactions,prometheus,bash,npm,ai,aiscript)
 
 
 ## Bash Project

@@ -13,9 +13,16 @@ https://github.com/dev126712/express-api
 - Shift Left (DevSecOps)
 - AiOps Log Analysis (Python)
 - Monotoring (Prometheus,Node Exporter, Slack)
+- Docker Compose
 
 ![My Skills](https://skillicons.dev/icons?i=react,express,mongodb,docker,py,githubactions,prometheus,bash,npm,ai,aiscript,kubernetes)
 
+### dockerized-three-tier-app:
+https://github.com/dev126712/dockerized-three-tier-app
+#### Project Overview:
+-
+
+![My Skills](https://skillicons.dev/icons?i=react,express,mongodb,docker,py,githubactions,prometheus,bash,npm,terraform,kubernetes)
 
 ## Bash Project
 

@@ -8,8 +8,11 @@ https://github.com/dev126712/express-api
 - Backend Express-Api
 - Frontend React
 - MongoDB Atlas
+- Docker Container
+- CI/CD Workflows (GitHub Actions)
+- Shift Left (DevSecOps)
 
-![My Skills](https://skillicons.dev/icons?i=react,express,mongodb,docker,py,githubactions)
+![My Skills](https://skillicons.dev/icons?i=react,express,mongodb,docker,py,githubactions,prometheus,gr)
 
 
 ## Bash Project

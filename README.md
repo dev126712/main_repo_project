@@ -20,9 +20,19 @@ https://github.com/dev126712/express-api
 ### dockerized-three-tier-app:
 https://github.com/dev126712/dockerized-three-tier-app
 #### Project Overview:
--
-
-![My Skills](https://skillicons.dev/icons?i=react,express,mongodb,docker,py,githubactions,prometheus,bash,npm,terraform,kubernetes)
+- CRUD Application
+- Backend Express-Api
+- Frontend Express
+- MongoDB
+- Docker Container
+-  CI/CD Workflows (GitHub Actions)
+- Shift Left (DevSecOps)
+- Docker Compose
+- Reverse Proxy(Nginx)
+- Infrastructure (Terraform)
+- Shift Left (DevSecOps)
+  
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,nginx,docker,githubactions,bash,npm,terraform,)
 
 ## Bash Project
 

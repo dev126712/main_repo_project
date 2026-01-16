@@ -54,7 +54,17 @@
 
 ![My Skills](https://skillicons.dev/icons?i=docker,terraform,aws,postgres,ubuntu,bash,jenkins,linux)
 
-## Bash Project
+## Ai Project
+#
+### AI log converter & Anomaly Detector
+#### Project Overview:
+- Python
+- Machine Learning (Isolation Forest)
+- Generative AI (Gemini 1.5 Flash)
+- Docker
+- Makefile
+- Slack
+- CI/CD Workflows (GitHub Actions)
 
-
+![My Skills](https://skillicons.dev/icons?i=docker,ubuntu,bash,githubactions,linux,cmake,ai)
 ## Monitoring project

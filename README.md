@@ -54,7 +54,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=docker,terraform,aws,postgres,ubuntu,bash,jenkins,linux)
 
-## Ai Project
+## Ai Project: https://github.com/dev126712/aiops-log-converter/tree/main
 #
 ### AI log converter & Anomaly Detector
 #### Project Overview:

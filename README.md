@@ -58,7 +58,7 @@
 # Ai Project
 ![alt text](https://github.com/dev126712/main_repo_project/blob/16c32485040a15e124205272764a21feaacaff4a/aiops.jpg)
 #
-### AI log converter & Anomaly Detector: https://github.com/dev126712/aiops-log-converter/tree/main
+### AI log converter & Anomaly Detector: https://github.com/dev126712/aiops-log-converter
 #### Project Overview:
 - Python
 - Machine Learning (Isolation Forest)

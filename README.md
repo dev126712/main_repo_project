@@ -57,8 +57,6 @@
 #
 ## Ai Project
 #
-
-#
 ### AI log converter & Anomaly Detector: https://github.com/dev126712/aiops-log-converter/tree/main
 #### Project Overview:
 - Python

@@ -1,4 +1,4 @@
-## DevOps Project
+# DevOps Project
 ![alt text](https://github.com/dev126712/dockerized-three-tier-app/blob/64105d4d0de1f6b2286aa6f47ae82d9ba965c086/licensed-image.jpeg)
 
 #
@@ -55,7 +55,8 @@
 ![My Skills](https://skillicons.dev/icons?i=docker,terraform,aws,postgres,ubuntu,bash,jenkins,linux)
 
 #
-## Ai Project
+# Ai Project
+![alt text](https://github.com/dev126712/main_repo_project/blob/16c32485040a15e124205272764a21feaacaff4a/aiops.jpg)
 #
 ### AI log converter & Anomaly Detector: https://github.com/dev126712/aiops-log-converter/tree/main
 #### Project Overview:

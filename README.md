@@ -68,5 +68,7 @@
 - Slack
 - CI/CD Workflows (GitHub Actions)
 
+![alt text](https://github.com/dev126712/aiops-log-converter/blob/7863a35a6b96ef1a9ff1e2437a70a6305b2f2eea/Untitled%20Diagram.drawio%20(3).png)
+
 ![My Skills](https://skillicons.dev/icons?i=docker,ubuntu,bash,githubactions,linux,cmake,ai)
 ## Monitoring project

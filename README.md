@@ -1,4 +1,4 @@
-# DevOps Project
+# DevOps Projects
 ![alt text](https://github.com/dev126712/dockerized-three-tier-app/blob/64105d4d0de1f6b2286aa6f47ae82d9ba965c086/licensed-image.jpeg)
 
 #

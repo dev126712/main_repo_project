@@ -18,7 +18,7 @@
 ### Express-Api-CD: https://github.com/dev126712/express-api-CD
 #### Project Overview:
 - Kubernetes
-- Kustumazi
+- Kustumaze
 
 ### Express-Api-Infrastructure: https://github.com/dev126712/express-api-Infrastructure
 #### Project Overview:

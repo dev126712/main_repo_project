@@ -11,7 +11,6 @@
 - Docker Container
 - CI/CD Workflows (GitHub Actions)
 - Shift Left (DevSecOps)
-- AiOps Log Analysis (Python)
 - Monotoring (Prometheus,Node Exporter, Slack)
 - Docker Compose
 

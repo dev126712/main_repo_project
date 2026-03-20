@@ -44,9 +44,6 @@
 ### Three Tier Application Deployment: https://github.com/dev126712/three-tier-architecture-deployment
 #### Project Overiew
 - Kubernetes
-  
-![alt text](https://github.com/dev126712/dockerized-three-tier-app/blob/edfa35fb944de110bd1977bae7f204915258a006/image.png)
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,nginx,docker,githubactions,bash,npm,terraform)
 
 #
 ### Three Tier Architecture: https://github.com/dev126712/three-tier-architecture

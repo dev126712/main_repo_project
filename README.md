@@ -44,12 +44,13 @@
 - Shift Left (DevSecOps)
 
 ### Three Tier Application Deployment: https://github.com/dev126712/three-tier-architecture-deployment
-#### Project Overiew
+#### Project Overiew:
 - Kubernetes
 - ArgoCD
 
 ### Three Tier Application Architecture:
-#### Project Overview
+#### Project Overview:
+- Infra
 
 #
 ## Project 3

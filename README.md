@@ -46,6 +46,7 @@
 ### Three Tier Application Deployment: https://github.com/dev126712/three-tier-architecture-deployment
 #### Project Overiew
 - Kubernetes
+- ArgoCD
 
 #
 ## Project 3

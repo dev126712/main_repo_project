@@ -48,6 +48,7 @@
 #### Project Overiew:
 - Kubernetes
 - ArgoCD
+- Helm
 
 ### Three Tier Application Architecture:
 #### Project Overview:

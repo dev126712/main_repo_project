@@ -9,22 +9,24 @@
 - Backend Express-Api
 - Frontend React
 - MongoDB Atlas
-- Docker Container
+- Docker
+- Docker Compose
 - CI/CD Workflows (GitHub Actions)
 - Shift Left (DevSecOps)
 - Monotoring (Prometheus,Node Exporter, Slack)
-- Docker Compose
 
 ### Express-Api-CD: https://github.com/dev126712/express-api-CD
 #### Project Overview:
 - Kubernetes
 - Kustomize
+- Multiple Environemnt (Dev, Stage, Prod)
 - ArgoCD
 
 ### Express-Api-Infrastructure: https://github.com/dev126712/express-api-Infrastructure
 #### Project Overview:
 - Terraform
 - GKE (Goocle Cloud Kubernetes Engine)
+- K8S Cluster
 
 ![My Skills](https://skillicons.dev/icons?i=react,express,mongodb,docker,py,githubactions,prometheus,bash,npm,ai,aiscript,kubernetes)
 
@@ -36,10 +38,10 @@
 - Backend Express-Api
 - Frontend Express
 - MongoDB
-- Docker Container
+- Docker
+- Docker Compose
 -  CI/CD Workflows (GitHub Actions)
 - Shift Left (DevSecOps)
-- Docker Compose
 - Reverse Proxy (Nginx)
 - Three Tier Infrastructure (Terraform)
 - Shift Left (DevSecOps)
@@ -49,6 +51,7 @@
 - Kubernetes
 - ArgoCD
 - Helm
+- Multiple Environemnt (Dev, Stage, Prod)
 
 ### Three Tier Application Architecture:
 #### Project Overview:

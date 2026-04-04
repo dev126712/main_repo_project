@@ -18,7 +18,7 @@
 ### Express-Api-CD: https://github.com/dev126712/express-api-CD
 #### Project Overview:
 - Kubernetes
-- Kustomize
+- Kustomize (Base, Overlays)
 - Multiple Environemnt (Dev, Stage, Prod)
 - ArgoCD
 

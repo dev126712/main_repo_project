@@ -52,6 +52,9 @@
 - ArgoCD
 - Helm
 - Multiple Environemnt (Dev, Stage, Prod)
+- Grafana
+- Node Exporter
+- Victoria Metrics
 
 ### Three Tier Application Architecture:
 #### Project Overview:

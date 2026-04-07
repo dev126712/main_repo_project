@@ -77,7 +77,7 @@
 - Docker Compose
 
 #
-## Project 3
+## Project 4
 ### Three Tier Architecture: https://github.com/dev126712/three-tier-architecture
 #### Project Overview:
 - Terraform

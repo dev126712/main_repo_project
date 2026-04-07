@@ -61,6 +61,22 @@
 - Infra
 
 #
+## Project 2
+### Microservices Application https://github.com/dev126712/microservices-app
+#### Project Overview:
+- Frontend HTML/Nginx
+- Order Service ( Python/Flask )
+- Product Service ( Node.js/Express )
+- Notification Service ( Golang )
+- Storage ( Postgress )
+- Caching ( Redis )
+- CI Pipeline
+- SCA Scanning ( Trivy )
+- SAST ( Semgrep )
+- Docker
+- Docker Compose
+
+#
 ## Project 3
 ### Three Tier Architecture: https://github.com/dev126712/three-tier-architecture
 #### Project Overview:

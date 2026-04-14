@@ -76,6 +76,13 @@
 - Docker
 - Docker Compose
 
+### Application Deployment
+- Frontend: https://github.com/dev126712/service-frontend-cd
+- service-product: https://github.com/dev126712/service-product-cd
+- service-order: https://github.com/dev126712/service-order-cd
+- service-notification: https://github.com/dev126712/service-notification-cd
+- infra-management: https://github.com/dev126712/micro-service-infra-management
+
 #
 ## Project 4
 ### Three Tier Architecture: https://github.com/dev126712/three-tier-architecture

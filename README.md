@@ -79,10 +79,7 @@
 ### Application Deployment
 - Infra-management Deployment: https://github.com/dev126712/micro-service-infra-management
   - Application manifiests config: https://github.com/dev126712/microservices-config
-    - Frontend Deployment: https://github.com/dev126712/service-frontend-cd
-    - service-product Deployment: https://github.com/dev126712/service-product-cd
-    - service-order Deployment: https://github.com/dev126712/service-order-cd
-    - service-notification Deployment: https://github.com/dev126712/service-notification-cd
+    - Application Charts Deployment: https://github.com/dev126712/microservice-charts-deployment
 
 #
 ## Project 4

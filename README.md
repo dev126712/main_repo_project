@@ -1,34 +1,28 @@
 # DevOps Projects - Alexandre St-fort
 ![alt text](https://github.com/dev126712/dockerized-three-tier-app/blob/64105d4d0de1f6b2286aa6f47ae82d9ba965c086/licensed-image.jpeg)
 
+
 #
 ## Project 1
-### Express-Api: https://github.com/dev126712/express-api
+### Microservices Application https://github.com/dev126712/microservices-app
 #### Project Overview:
-- CRUD Application
-- Backend Express-Api
-- Frontend React
-- MongoDB Atlas
+- Frontend HTML/Nginx
+- Order Service ( Python/Flask )
+- Product Service ( Node.js/Express )
+- Notification Service ( Golang )
+- Storage ( Postgress )
+- Caching ( Redis )
+- CI Pipeline
+- SCA Scanning ( Trivy )
+- SAST ( Semgrep )
 - Docker
 - Docker Compose
-- CI/CD Workflows (GitHub Actions)
-- Shift Left (DevSecOps)
-- Monotoring (Prometheus,Node Exporter, Slack)
 
-### Express-Api-CD: https://github.com/dev126712/express-api-CD
-#### Project Overview:
-- Kubernetes
-- Kustomize (Base, Overlays)
-- Multiple Environemnt (Dev, Stage, Prod)
-- ArgoCD
+### Application Deployment
+- Infra-management Deployment: https://github.com/dev126712/micro-service-infra-management
+  - Application manifiests config: https://github.com/dev126712/microservices-config
+    - Application Charts Deployment: https://github.com/dev126712/microservice-charts-deployment
 
-### Express-Api-Infrastructure: https://github.com/dev126712/express-api-Infrastructure
-#### Project Overview:
-- Terraform
-- GKE (Goocle Cloud Kubernetes Engine)
-- K8S Cluster
-
-![My Skills](https://skillicons.dev/icons?i=react,express,mongodb,docker,py,githubactions,prometheus,bash,npm,ai,aiscript,kubernetes)
 
 #
 ## Project 2
@@ -62,24 +56,32 @@
 
 #
 ## Project 3
-### Microservices Application https://github.com/dev126712/microservices-app
+### Express-Api: https://github.com/dev126712/express-api
 #### Project Overview:
-- Frontend HTML/Nginx
-- Order Service ( Python/Flask )
-- Product Service ( Node.js/Express )
-- Notification Service ( Golang )
-- Storage ( Postgress )
-- Caching ( Redis )
-- CI Pipeline
-- SCA Scanning ( Trivy )
-- SAST ( Semgrep )
+- CRUD Application
+- Backend Express-Api
+- Frontend React
+- MongoDB Atlas
 - Docker
 - Docker Compose
+- CI/CD Workflows (GitHub Actions)
+- Shift Left (DevSecOps)
+- Monotoring (Prometheus,Node Exporter, Slack)
 
-### Application Deployment
-- Infra-management Deployment: https://github.com/dev126712/micro-service-infra-management
-  - Application manifiests config: https://github.com/dev126712/microservices-config
-    - Application Charts Deployment: https://github.com/dev126712/microservice-charts-deployment
+### Express-Api-CD: https://github.com/dev126712/express-api-CD
+#### Project Overview:
+- Kubernetes
+- Kustomize (Base, Overlays)
+- Multiple Environemnt (Dev, Stage, Prod)
+- ArgoCD
+
+### Express-Api-Infrastructure: https://github.com/dev126712/express-api-Infrastructure
+#### Project Overview:
+- Terraform
+- GKE (Goocle Cloud Kubernetes Engine)
+- K8S Cluster
+
+![My Skills](https://skillicons.dev/icons?i=react,express,mongodb,docker,py,githubactions,prometheus,bash,npm,ai,aiscript,kubernetes)
 
 #
 ## Project 4

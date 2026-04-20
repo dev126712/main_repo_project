@@ -22,7 +22,7 @@
 - Infra-management Deployment: https://github.com/dev126712/micro-service-infra-management
   - Application manifiests config: https://github.com/dev126712/microservices-config
     - Application Charts Deployment: https://github.com/dev126712/microservice-charts-deployment
-
+[![My Skills](https://skillicons.dev/icons?i=js,helm,kubernetes)](https://skillicons.dev)
 
 #
 ## Project 2

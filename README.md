@@ -23,6 +23,7 @@
   - GKE cluster
   - Kubernetes
   - Terraform
+  - Security pipeline
     
 - Application Charts Deployment: https://github.com/dev126712/microservice-charts-deployment
   - Helm Chart

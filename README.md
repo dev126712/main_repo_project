@@ -20,8 +20,7 @@
 
 ### Application Deployment
 - Infra-management Deployment: https://github.com/dev126712/micro-service-infra-management
-  - Application manifiests config: https://github.com/dev126712/microservices-config
-    - Application Charts Deployment: https://github.com/dev126712/microservice-charts-deployment
+  - Application Charts Deployment: https://github.com/dev126712/microservice-charts-deployment
       
 [![My Skills](https://skillicons.dev/icons?i=githubactions,kubernetes,redis,postgres,terraform)](https://skillicons.dev)
 

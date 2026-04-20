@@ -29,7 +29,7 @@
   - Helm Chart
   - Argocd Application
       
-[![My Skills](https://skillicons.dev/icons?i=githubactions,kubernetes,redis,postgres,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=githubactions,kubernetes,redis,postgres,terraform,flask,docker)](https://skillicons.dev)
 
 #
 ## Project 2

@@ -20,7 +20,7 @@
 
 ### Application Deployment CD
 - Infra-management Deployment: https://github.com/dev126712/micro-service-infra-management
-  - Goosle Cloud Platform
+  - Google Cloud Platform
   - GKE cluster
   - Kubernetes
   - Terraform

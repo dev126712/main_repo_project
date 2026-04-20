@@ -4,7 +4,7 @@
 
 #
 ## Project 1
-### Microservices Application https://github.com/dev126712/microservices-app
+### Microservices Application CI https://github.com/dev126712/microservices-app
 #### Project Overview:
 - Frontend HTML/Nginx
 - Order Service ( Python/Flask )
@@ -18,7 +18,7 @@
 - Docker
 - Docker Compose
 
-### Application Deployment
+### Application Deployment CD
 - Infra-management Deployment: https://github.com/dev126712/micro-service-infra-management
   - GKE cluster
   - Kubernetes

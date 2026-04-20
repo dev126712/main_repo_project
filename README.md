@@ -20,7 +20,13 @@
 
 ### Application Deployment
 - Infra-management Deployment: https://github.com/dev126712/micro-service-infra-management
-  - Application Charts Deployment: https://github.com/dev126712/microservice-charts-deployment
+  - GKE cluster
+  - Kubernetes
+  - Terraform
+    
+- Application Charts Deployment: https://github.com/dev126712/microservice-charts-deployment
+  - Helm Chart
+  - Argocd Application
       
 [![My Skills](https://skillicons.dev/icons?i=githubactions,kubernetes,redis,postgres,terraform)](https://skillicons.dev)
 

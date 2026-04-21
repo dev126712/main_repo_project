@@ -18,7 +18,7 @@
 - Docker
 - Docker Compose
 
-### Application Deployment CD
+### Micorservice Application Deployment CD
 - Infra-management Deployment: https://github.com/dev126712/micro-service-infra-management
   - Google Cloud Platform
   - GKE cluster

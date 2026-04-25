@@ -27,6 +27,7 @@
   - Security pipeline
   - Trivy ( Cluster DAST )
   - HashircorpVault ( Secrets )
+  - VictoriaMetrics ( Monitoring )
     
 - Application Charts Deployment: https://github.com/dev126712/microservice-charts-deployment
   - Helm Chart

@@ -1,6 +1,12 @@
 # DevOps Projects - Alexandre St-fort
 ![alt text](https://github.com/dev126712/dockerized-three-tier-app/blob/64105d4d0de1f6b2286aa6f47ae82d9ba965c086/licensed-image.jpeg)
 
+#
+## Terraform Project
+### Terraform Modules: https://github.com/dev126712/terraform-modules
+#### Project Overview Of My Terraform Modules
+![My Skills](https://skillicons.dev/icons?i=terraform)
+
 
 #
 ## Project 1
@@ -93,12 +99,6 @@
 - K8S Cluster
 
 ![My Skills](https://skillicons.dev/icons?i=react,express,mongodb,docker,py,githubactions,prometheus,bash,npm,ai,aiscript,kubernetes)
-
-#
-## Terraform Project
-### Terraform Modules: https://github.com/dev126712/terraform-modules
-#### Project Overview Of My Terraform Modules
-![My Skills](https://skillicons.dev/icons?i=terraform)
 
 #
 ## Project 4

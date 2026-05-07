@@ -15,7 +15,7 @@
 #
 ## Project 2
 ### [**Dockerized-Three-Tier-App**](https://github.com/dev126712/dockerized-three-tier-app)
-#### Project Overview:
+#### Repo Overview:
 - CRUD Application
 - Backend Express-Api
 - Frontend Express
@@ -29,7 +29,7 @@
 - Shift Left (DevSecOps)
 
 ### [**Three Tier Application Deployment**](https://github.com/dev126712/three-tier-architecture-deployment)
-#### Project Overiew:
+#### Repo Overiew:
 - Kubernetes
 - ArgoCD
 - Helm
@@ -39,13 +39,13 @@
 - Victoria Metrics
 
 ### Three Tier Application Architecture:
-#### Project Overview:
+#### Repo Overview:
 - Infra
 
 #
 ## Project 3
 ### [**Express-Api**](https://github.com/dev126712/express-api)
-#### Project Overview:
+#### Repo Overview:
 - CRUD Application
 - Backend Express-Api
 - Frontend React
@@ -57,14 +57,14 @@
 - Monotoring (Prometheus,Node Exporter, Slack)
 
 ### [**Express-Api-CD**](https://github.com/dev126712/express-api-CD)
-#### Project Overview:
+#### Repo Overview:
 - Kubernetes
 - Kustomize (Base, Overlays)
 - Multiple Environemnt (Dev, Stage, Prod)
 - ArgoCD
 
 ### [**Express-Api-Infrastructure**](https://github.com/dev126712/express-api-Infrastructure)
-#### Project Overview:
+#### Repo Overview:
 - Terraform
 - GKE (Goocle Cloud Kubernetes Engine)
 - K8S Cluster
@@ -73,7 +73,7 @@
 
 #
 ### [**CI/CD Setup**](https://github.com/dev126712/cicd)
-#### Project Overview:
+#### Repo Overview:
 - Terraform
 - Shell
 - AWS (S3)
@@ -87,7 +87,7 @@
 ![alt text](https://github.com/dev126712/main_repo_project/blob/16c32485040a15e124205272764a21feaacaff4a/aiops.jpg)
 #
 ### [**AI log converter & Anomaly Detector**](https://github.com/dev126712/aiops-log-converter)
-#### Project Overview:
+#### Repo Overview:
 - Python
 - Machine Learning (Isolation Forest)
 - Generative AI (Gemini 1.5 Flash)

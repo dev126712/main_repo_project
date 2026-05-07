@@ -14,7 +14,7 @@
 
 #
 ## Project 2
-### Dockerized-Three-Tier-App: https://github.com/dev126712/dockerized-three-tier-app
+### [**Dockerized-Three-Tier-App**](https://github.com/dev126712/dockerized-three-tier-app)
 #### Project Overview:
 - CRUD Application
 - Backend Express-Api
@@ -28,7 +28,7 @@
 - Three Tier Infrastructure (Terraform)
 - Shift Left (DevSecOps)
 
-### Three Tier Application Deployment: https://github.com/dev126712/three-tier-architecture-deployment
+### [**Three Tier Application Deployment**](https://github.com/dev126712/three-tier-architecture-deployment)
 #### Project Overiew:
 - Kubernetes
 - ArgoCD
@@ -44,7 +44,7 @@
 
 #
 ## Project 3
-### Express-Api: https://github.com/dev126712/express-api
+### [**Express-Api**](https://github.com/dev126712/express-api)
 #### Project Overview:
 - CRUD Application
 - Backend Express-Api
@@ -56,14 +56,14 @@
 - Shift Left (DevSecOps)
 - Monotoring (Prometheus,Node Exporter, Slack)
 
-### Express-Api-CD: https://github.com/dev126712/express-api-CD
+### [**Express-Api-CD**](https://github.com/dev126712/express-api-CD)
 #### Project Overview:
 - Kubernetes
 - Kustomize (Base, Overlays)
 - Multiple Environemnt (Dev, Stage, Prod)
 - ArgoCD
 
-### Express-Api-Infrastructure: https://github.com/dev126712/express-api-Infrastructure
+### [**Express-Api-Infrastructure**](https://github.com/dev126712/express-api-Infrastructure)
 #### Project Overview:
 - Terraform
 - GKE (Goocle Cloud Kubernetes Engine)
@@ -72,7 +72,7 @@
 ![My Skills](https://skillicons.dev/icons?i=react,express,mongodb,docker,py,githubactions,prometheus,bash,npm,ai,aiscript,kubernetes)
 
 #
-### CI/CD Setup: https://github.com/dev126712/cicd
+### [**CI/CD Setup**](https://github.com/dev126712/cicd)
 #### Project Overview:
 - Terraform
 - Shell
@@ -86,7 +86,7 @@
 # Ai Project
 ![alt text](https://github.com/dev126712/main_repo_project/blob/16c32485040a15e124205272764a21feaacaff4a/aiops.jpg)
 #
-### AI log converter & Anomaly Detector: https://github.com/dev126712/aiops-log-converter
+### [**AI log converter & Anomaly Detector**[(https://github.com/dev126712/aiops-log-converter)
 #### Project Overview:
 - Python
 - Machine Learning (Isolation Forest)

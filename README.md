@@ -9,7 +9,7 @@
 
 #
 ## Project 1
-### [**Microservices Application CI**](https://github.com/dev126712/microservice-end-to-end) : GitOps driven architecture on GKE
+### [**Microservices Application**](https://github.com/dev126712/microservice-end-to-end) : GitOps driven architecture on GKE
 [![My Skills](https://skillicons.dev/icons?i=githubactions,kubernetes,redis,postgres,terraform,flask,docker,go,nodejs)](https://skillicons.dev)
 
 #

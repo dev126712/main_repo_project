@@ -16,7 +16,7 @@ Portfolio showcasing production-grade projects across **cloud infrastructure**, 
 | **IaC** | Terraform · Helm · Kustomize |
 | **Containers & Orchestration** | Docker · Kubernetes · ArgoCD |
 | **CI/CD & DevSecOps** | GitHub Actions · Jenkins · Trivy · Semgrep |
-| **AI / AIOps** | LangGraph · FastAPI · Groq · Claude · Ollama · Isolation Forest |
+| **AI / AIOps** | LangGraph · FastAPI · Groq · Claude · Ollama · MCP · Isolation Forest |
 | **Observability** | Prometheus · Grafana · Loki · VictoriaMetrics · Alertmanager |
 | **Platform Engineering** | Backstage IDP · HashiCorp Vault · Secrets management |
 | **Languages** | Python · HCL · TypeScript · Go · Bash · JavaScript |
@@ -93,6 +93,25 @@ GitOps-driven microservices architecture on Google Kubernetes Engine using a thr
 
 ---
 
+### [Polyglot Microservices Orchestration](https://github.com/dev126712/microservices-app)
+A standalone distributed system with four services written in three runtimes — each containerised, CI/CD-hardened, and communicating over an internal Docker network.
+
+| Service | Runtime | Responsibility |
+|---|---|---|
+| **Frontend** | Nginx | Reverse proxy — routes UI requests to Order and Product services |
+| **Product Service** | Node.js + Express | Inventory management with dual-layer Redis cache-aside |
+| **Order Service** | Python + Flask + SQLAlchemy | Transactional order processing + PostgreSQL owner |
+| **Notification Service** | Go | High-concurrency async worker — triggered after each order commit |
+
+**Key engineering details:**
+- **Dual-layer Redis caching** — Redis Hashes as the source of truth + String cache with 60s TTL for hot reads; auto-invalidated on `PUT`/`DELETE`
+- **Exponential backoff** — Python Order Service retries DB connection on startup to handle container race conditions
+- **Per-service DevSecOps CI** — each GitHub Actions workflow runs Trivy SCA (filesystem), Semgrep SAST, and post-build container scan (fails on CRITICAL); images pushed with `latest` + immutable SHA tag
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,py,go,redis,postgres,docker,githubactions,nginx)](https://skillicons.dev)
+
+---
+
 ### Three-Tier Application Suite
 
 A fully end-to-end three-tier system split across three repos — app, deployment manifests, and cloud infrastructure.
@@ -125,24 +144,36 @@ A React/Express/MongoDB full-stack app with end-to-end DevSecOps — from local 
 
 ![AIOps](https://github.com/dev126712/main_repo_project/blob/16c32485040a15e124205272764a21feaacaff4a/aiops.jpg)
 
-### [AIOps Log Converter 2.0](https://github.com/dev126712/aiops-log-converter2.0)
-Production-ready log intelligence pipeline with a full observability stack, ML anomaly detection, and LLM-generated explanations.
+### [AI Playground — MCP Agent](https://github.com/dev126712/ai_playground)
+Experiments with MCP (Model Context Protocol) and agentic frameworks.
 
-- **Ingest:** Loki + Promtail (Docker log collector → structured log store)
-- **Detect:** Isolation Forest (scikit-learn) — unsupervised anomaly scoring
-- **Explain:** Groq (Llama 3.3 70B) locally, Ollama on a K8s GPU node — provider-agnostic router
-- **Store:** MongoDB (anomaly records) · Redis (deduplication cache, LRU eviction)
-- **Observe:** Prometheus metrics on every pipeline run · Grafana dashboards pre-provisioned
-- **Architecture:** Adapter pattern — cache, storage, and alert backends are swappable without touching pipeline logic
+**MCP Multi-Server Agent** — a LangGraph ReAct agent that connects to two MCP servers simultaneously over different transports:
 
-[![My Skills](https://skillicons.dev/icons?i=py,docker,prometheus,grafana,mongodb,redis)](https://skillicons.dev)
+```
+LangGraph ReAct Agent (Groq qwen3-32b)
+  ├── stdio transport ──▶ Math MCP Server (FastMCP)
+  └── HTTP streamable ──▶ Weather MCP Server (FastMCP)
+```
+
+MCP is the emerging standard for connecting AI agents to tools — this project covers both the client (agent) and server (tool provider) sides.
+
+Also includes a **Tavily search agent** — LangGraph graph that routes to real-time web search when needed.
+
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
 ---
 
-### [AIOps Log Converter](https://github.com/dev126712/aiops-log-converter)
-Original AIOps pipeline — Isolation Forest anomaly detection with Gemini 1.5 Flash explanations, Slack alerting, and a GitHub Actions CI/CD workflow.
+### AIOps Log Pipeline — Three Generations
 
-[![My Skills](https://skillicons.dev/icons?i=py,docker,githubactions)](https://skillicons.dev)
+| Repo | Generation | Stack |
+|---|---|---|
+| [aiops-log-analysis](https://github.com/dev126712/aiops-log-analysis) | v0 — Foundation | Bash chaos simulation · Isolation Forest · Matplotlib · Slack ChatOps |
+| [aiops-log-converter](https://github.com/dev126712/aiops-log-converter) | v1 — Containerised | Python · Isolation Forest · Gemini 1.5 Flash · Docker · GitHub Actions CI |
+| [aiops-log-converter2.0](https://github.com/dev126712/aiops-log-converter2.0) | v2 — Production | Loki · Promtail · Groq/Ollama · Redis · MongoDB · Prometheus · Grafana · Adapter pattern |
+
+**v2 highlights:** Adapter pattern makes cache, storage, and alert backends swappable; Groq/Ollama LLM router switches automatically between local GPU (K8s) and free API (local dev); full observability stack pre-provisioned via Docker Compose.
+
+[![My Skills](https://skillicons.dev/icons?i=py,docker,prometheus,grafana,mongodb,redis)](https://skillicons.dev)
 
 ---
 

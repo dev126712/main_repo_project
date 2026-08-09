@@ -8,7 +8,7 @@ Portfolio showcasing production-grade projects across **cloud infrastructure**, 
 
 ---
 
-## Skills at a Glance
+## Skills
 
 | Domain | Tools |
 |---|---|
@@ -16,9 +16,10 @@ Portfolio showcasing production-grade projects across **cloud infrastructure**, 
 | **IaC** | Terraform · Helm · Kustomize |
 | **Containers & Orchestration** | Docker · Kubernetes · ArgoCD |
 | **CI/CD & DevSecOps** | GitHub Actions · Jenkins · Trivy · Semgrep |
-| **AI / AIOps** | LangGraph · FastAPI · Groq · Claude · Ollama · MCP · Isolation Forest |
+| **AI / AIOps** | LangGraph · LandChain · MCP · FastAPI · Groq · Claude · Ollama · MCP · Isolation Forest |
 | **Observability** | Prometheus · Grafana · Loki · VictoriaMetrics · Alertmanager |
-| **Platform Engineering** | Backstage IDP · HashiCorp Vault · Secrets management |
+| **Platform Engineering** | Backstage IDP |
+| **Security** | IAM (AWS) · DevSecOps · HashiCorp Vault · Secrets management |
 | **Languages** | Python · HCL · TypeScript · Go · Bash · JavaScript |
 
 ---
